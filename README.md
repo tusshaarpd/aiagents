@@ -1,4 +1,4 @@
-# aiagents
+# AI Agents
 
 Ai Agents are the next big thing in Ai Tech Revolution 
 It's important to have a grasp of it 
