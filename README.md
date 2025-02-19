@@ -36,3 +36,20 @@ Key Features:
 This AI-powered tool helps candidates optimize their resumes for better job application success. 🚀
 
 Agent link : https://agent.ai/agent/Resume-score-provider
+
+Are you applying for a new job and want your resume to stand out? Our AI Resume Tailoring Agent helps you optimize your resume for any role in just a few clicks! 🎯
+
+🔹 How It Works:
+1️⃣ Input the Job Role & Description
+2️⃣ Provide your Current Resume
+3️⃣ Get a Refined, Impactful, and Job-Optimized Resume instantly!
+
+✨ What It Does:
+✅ Aligns your resume with key responsibilities & skills
+✅ Enhances impact with metric-driven statements
+✅ Removes irrelevant details & optimizes phrasing
+✅ Ensures concise, professional, and ATS-friendly formatting
+
+🔗 Try it now and get one step closer to your dream job!
+
+Link : https://agent.ai/agent/airesumetailor
